@@ -17,7 +17,8 @@
     "bun-webkit",
     "src/bun.js/WebKit",
     "src/api/demo",
-    "node_modules"
+    "node_modules",
+      "src/api/dem",
   ],
   "files": ["src/js/builtins.d.ts"]
 }
